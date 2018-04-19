@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="zhang-admin" />
+        <module name="zhang-api" />
+        <module name="zhang-cms-admin" />
+        <module name="zhang-cms-common" />
+        <module name="zhang-cms-dao" />
+        <module name="zhang-cms-job" />
+        <module name="zhang-cms-rpc-api" />
+        <module name="zhang-cms-rpc-service" />
+        <module name="zhang-cms-search" />
+        <module name="zhang-cms-web" />
+        <module name="zhang-common" />
+        <module name="zhang-oss-admin" />
+        <module name="zhang-oss-sdk" />
+        <module name="zhang-oss-web" />
+        <module name="zhang-upms-client" />
+        <module name="zhang-upms-common" />
+        <module name="zhang-upms-dao" />
+        <module name="zhang-upms-rpc-api" />
+        <module name="zhang-upms-rpc-service" />
+        <module name="zhang-upms-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hang-oss-admin" target="1.5" />
+      <module name="zhang" target="1.5" />
+      <module name="zhang-admin" target="1.5" />
+      <module name="zhang-api" target="1.5" />
+      <module name="zhang-cms" target="1.5" />
+      <module name="zhang-cms-admin" target="1.8" />
+      <module name="zhang-cms-common" target="1.5" />
+      <module name="zhang-cms-dao" target="1.5" />
+      <module name="zhang-cms-job" target="1.5" />
+      <module name="zhang-cms-rpc-api" target="1.5" />
+      <module name="zhang-cms-rpc-service" target="1.7" />
+      <module name="zhang-cms-search" target="1.5" />
+      <module name="zhang-cms-web" target="1.5" />
+      <module name="zhang-common" target="1.8" />
+      <module name="zhang-oss" target="1.5" />
+      <module name="zhang-oss-admin" target="1.5" />
+      <module name="zhang-oss-sdk" target="1.5" />
+      <module name="zhang-oss-web" target="1.5" />
+      <module name="zhang-upms" target="1.7" />
+      <module name="zhang-upms-client" target="1.7" />
+      <module name="zhang-upms-common" target="1.7" />
+      <module name="zhang-upms-dao" target="1.7" />
+      <module name="zhang-upms-rpc-api" target="1.7" />
+      <module name="zhang-upms-rpc-service" target="1.7" />
+      <module name="zhang-upms-server" target="1.7" />
+      <module name="zhangcms" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

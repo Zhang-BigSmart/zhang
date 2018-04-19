@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/zhang.iml" filepath="$PROJECT_DIR$/zhang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-admin/zhang-admin.iml" filepath="$PROJECT_DIR$/zhang-admin/zhang-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-api/zhang-api.iml" filepath="$PROJECT_DIR$/zhang-api/zhang-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-cms/zhang-cms.iml" filepath="$PROJECT_DIR$/zhang-cms/zhang-cms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-cms/zhang-cms-admin/zhang-cms-admin.iml" filepath="$PROJECT_DIR$/zhang-cms/zhang-cms-admin/zhang-cms-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-cms/zhang-cms-common/zhang-cms-common.iml" filepath="$PROJECT_DIR$/zhang-cms/zhang-cms-common/zhang-cms-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-cms/zhang-cms-dao/zhang-cms-dao.iml" filepath="$PROJECT_DIR$/zhang-cms/zhang-cms-dao/zhang-cms-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-cms/zhang-cms-job/zhang-cms-job.iml" filepath="$PROJECT_DIR$/zhang-cms/zhang-cms-job/zhang-cms-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-cms/zhang-cms-rpc-api/zhang-cms-rpc-api.iml" filepath="$PROJECT_DIR$/zhang-cms/zhang-cms-rpc-api/zhang-cms-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-cms/zhang-cms-rpc-service/zhang-cms-rpc-service.iml" filepath="$PROJECT_DIR$/zhang-cms/zhang-cms-rpc-service/zhang-cms-rpc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-cms/zhang-cms-search/zhang-cms-search.iml" filepath="$PROJECT_DIR$/zhang-cms/zhang-cms-search/zhang-cms-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-cms/zhang-cms-web/zhang-cms-web.iml" filepath="$PROJECT_DIR$/zhang-cms/zhang-cms-web/zhang-cms-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-common/zhang-common.iml" filepath="$PROJECT_DIR$/zhang-common/zhang-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-oss/zhang-oss.iml" filepath="$PROJECT_DIR$/zhang-oss/zhang-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-oss/zhang-oss-admin/zhang-oss-admin.iml" filepath="$PROJECT_DIR$/zhang-oss/zhang-oss-admin/zhang-oss-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-oss/zhang-oss-sdk/zhang-oss-sdk.iml" filepath="$PROJECT_DIR$/zhang-oss/zhang-oss-sdk/zhang-oss-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-oss/zhang-oss-web/zhang-oss-web.iml" filepath="$PROJECT_DIR$/zhang-oss/zhang-oss-web/zhang-oss-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-upms/zhang-upms.iml" filepath="$PROJECT_DIR$/zhang-upms/zhang-upms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-upms/zhang-upms-client/zhang-upms-client.iml" filepath="$PROJECT_DIR$/zhang-upms/zhang-upms-client/zhang-upms-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-upms/zhang-upms-common/zhang-upms-common.iml" filepath="$PROJECT_DIR$/zhang-upms/zhang-upms-common/zhang-upms-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-upms/zhang-upms-dao/zhang-upms-dao.iml" filepath="$PROJECT_DIR$/zhang-upms/zhang-upms-dao/zhang-upms-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-upms/zhang-upms-rpc-api/zhang-upms-rpc-api.iml" filepath="$PROJECT_DIR$/zhang-upms/zhang-upms-rpc-api/zhang-upms-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-upms/zhang-upms-rpc-service/zhang-upms-rpc-service.iml" filepath="$PROJECT_DIR$/zhang-upms/zhang-upms-rpc-service/zhang-upms-rpc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang-upms/zhang-upms-server/zhang-upms-server.iml" filepath="$PROJECT_DIR$/zhang-upms/zhang-upms-server/zhang-upms-server.iml" />
+    </modules>
+  </component>
+</project>

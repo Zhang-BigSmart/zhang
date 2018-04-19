@@ -1,0 +1,3 @@
+2017-08-10 17:52:37 [ ERROR ] [ RedisUtil.java :94(getJedis)] Get jedis PASSWORD error : redis.clients.jedis.exceptions.JedisDataException: value sent to redis cannot be null
+2017-08-10 17:52:37 [ ERROR ] [ RedisUtil.java :147(set)] Set keyex error : redis.clients.jedis.exceptions.JedisDataException: NOAUTH Authentication required.
+2017-08-10 17:52:38 [ ERROR ] [ RedisUtil.java :94(getJedis)] Get jedis PASSWORD error : redis.clients.jedis.exceptions.JedisDataException: value sent to redis cannot be null

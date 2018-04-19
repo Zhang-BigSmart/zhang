@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/zhang-cms/zhang-cms-admin" />
+    <file type="web" url="file://$PROJECT_DIR$/zhang-cms/zhang-cms-job" />
+    <file type="web" url="file://$PROJECT_DIR$/zhang-cms/zhang-cms-search" />
+    <file type="web" url="file://$PROJECT_DIR$/zhang-cms/zhang-cms-web" />
+    <file type="web" url="file://$PROJECT_DIR$/zhang-oss/zhang-oss-admin" />
+    <file type="web" url="file://$PROJECT_DIR$/zhang-oss/zhang-oss-web" />
+    <file type="web" url="file://$PROJECT_DIR$/zhang-upms/zhang-upms-server" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/zhang-cms/pom.xml" />
+        <option value="$PROJECT_DIR$/zhang-cms/zhang-cms-common/pom.xml" />
+        <option value="$PROJECT_DIR$/zhang-cms/zhang-cms-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/zhang-cms/zhang-cms-job/pom.xml" />
+        <option value="$PROJECT_DIR$/zhang-cms/zhang-cms-rpc-service/pom.xml" />
+        <option value="$PROJECT_DIR$/zhang-cms/zhang-cms-rpc-api/pom.xml" />
+        <option value="$PROJECT_DIR$/zhang-cms/zhang-cms-search/pom.xml" />
+        <option value="$PROJECT_DIR$/zhang-cms/zhang-cms-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/zhang-cms/zhang-cms-web/pom.xml" />
+        <option value="$PROJECT_DIR$/zhang-oss/zhang-oss-web/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/zhang-oss/hang-oss-admin/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

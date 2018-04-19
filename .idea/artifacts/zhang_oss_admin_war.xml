@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zhang-oss-admin:war">
+    <output-path>$PROJECT_DIR$/zhang-oss/zhang-oss-admin/target</output-path>
+    <root id="archive" name="zhang-oss-admin.war">
+      <element id="artifact" artifact-name="zhang-oss-admin:war exploded" />
+    </root>
+  </artifact>
+</component>

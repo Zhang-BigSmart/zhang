@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="zhang-cms-web:war">
+    <output-path>$PROJECT_DIR$/zhang-cms/zhang-cms-web/target</output-path>
+    <root id="archive" name="zhang-cms-web.war">
+      <element id="artifact" artifact-name="zhang-cms-web:war exploded" />
+    </root>
+  </artifact>
+</component>

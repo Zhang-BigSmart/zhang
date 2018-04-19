@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-cms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-cms/zhang-cms-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-cms/zhang-cms-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-cms/zhang-cms-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-cms/zhang-cms-job" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-cms/zhang-cms-rpc-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-cms/zhang-cms-rpc-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-cms/zhang-cms-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-cms/zhang-cms-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-oss/hang-oss-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-oss/hang-oss-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-oss/zhang-oss-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-oss/zhang-oss-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-oss/zhang-oss-sdk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-oss/zhang-oss-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-oss/zhang-oss-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-upms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-upms/zhang-upms-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-upms/zhang-upms-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-upms/zhang-upms-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-upms/zhang-upms-rpc-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-upms/zhang-upms-rpc-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zhang-upms/zhang-upms-server" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

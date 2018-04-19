@@ -1,0 +1,11 @@
+com\zhang\upms\server\controller\manage\UpmsLogController.class
+com\zhang\upms\server\controller\ManageController.class
+com\zhang\upms\server\controller\manage\UpmsRoleController.class
+com\zhang\upms\server\interceptor\UpmsInterceptor.class
+com\zhang\upms\server\controller\TestController.class
+com\zhang\upms\server\controller\manage\UpmsOrganizationController.class
+com\zhang\upms\server\controller\manage\UpmsSessionController.class
+com\zhang\upms\server\controller\SSOController.class
+com\zhang\upms\server\controller\manage\UpmsUserController.class
+com\zhang\upms\server\controller\manage\UpmsSystemController.class
+com\zhang\upms\server\controller\manage\UpmsPermissionController.class

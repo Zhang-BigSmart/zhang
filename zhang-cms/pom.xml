@@ -1,0 +1,61 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.zhang</groupId>
+    <artifactId>zhang-cms</artifactId>
+    <version>1.0.0</version>
+    <packaging>pom</packaging>
+
+    <name>zhang-cms</name>
+    <url>http://maven.apache.org</url>
+
+    <modules>
+        <module>zhang-cms-common</module>
+        <module>zhang-cms-dao</module>
+        <module>zhang-cms-job</module>
+        <module>zhang-cms-rpc-api</module>
+        <module>zhang-cms-rpc-service</module>
+        <module>zhang-cms-search</module>
+        <module>zhang-cms-admin</module>
+        <module>zhang-cms-web</module>
+    </modules>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>com.zhang</groupId>
+                <artifactId>zhang-cms-common</artifactId>
+                <version>1.0.0</version>
+                <type>jar</type>
+            </dependency>
+            <dependency>
+                <groupId>com.zhang</groupId>
+                <artifactId>zhang-cms-dao</artifactId>
+                <version>${project.version}</version>
+                <type>jar</type>
+            </dependency>
+            <dependency>
+                <groupId>junit</groupId>
+                <artifactId>junit</artifactId>
+                <version>4.12</version>
+                <scope>test</scope>
+            </dependency>
+            <dependency>
+                <groupId>javax.servlet</groupId>
+                <artifactId>servlet-api</artifactId>
+                <version>2.5</version>
+                <scope>provided</scope>
+            </dependency>
+            <dependency>
+                <groupId>javax.servlet</groupId>
+                <artifactId>jstl</artifactId>
+                <version>1.2</version>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+</project>
